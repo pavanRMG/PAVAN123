@@ -15,7 +15,7 @@ public class ArmstrongNumber {
 		if (Armstrong == orginal)
 			System.out.print(" is Armstrong");
 		else
-			System.out.println("Not an Armstrong ");
+			System.out.println("Not an Armstrong OK ");
 		
 
 	}
